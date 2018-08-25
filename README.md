@@ -1,4 +1,6 @@
 # Alexa-Toll
+This repository contains an Alexa app I built to help me decide whether to take the toll road or not.
+
 # Overview
 I built this Alexa app to learn how Alexa apps work, and to help me with my daily decision making
 for the route to take to and from work.  Google maps usually recommended two different routes to
