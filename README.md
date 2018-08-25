@@ -1,4 +1,4 @@
-# Alexa-Toll
+# Alexa-Commute Traffic
 This repository contains an Alexa app I built to help me decide whether to take the toll road or not.
 
 # Overview
